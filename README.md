@@ -6,8 +6,11 @@ This project uses satellite imagery to analyze environmental patterns, assist in
 Features
 
 Satellite image classification using CNNs.
+
 Data augmentation for improved model performance.
+
 Model accuracy: 92% on the test set.
+
 
 
 
@@ -25,4 +28,5 @@ Tools: Jupyter Notebooks
 Future Work
 
 Explore transfer learning to improve accuracy.
+
 Real-time satellite image analysis using edge computing.
