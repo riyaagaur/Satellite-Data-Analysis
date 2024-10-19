@@ -10,11 +10,16 @@ Data augmentation for improved model performance.
 Model accuracy: 92% on the test set.
 
 
+
 Technologies Used
 
 Languages: Python
+
 Libraries: TensorFlow, OpenCV, NumPy, Matplotlib
+
 Tools: Jupyter Notebooks
+
+
 
 
 Future Work
