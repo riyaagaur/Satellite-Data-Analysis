@@ -1,9 +1,9 @@
 # Satellite-Data-Analysis
 
-**Project Overview**
+## Project Overview**
 This project uses satellite imagery to analyze environmental patterns, assist in weather forecasting, and aid disaster management. By applying advanced deep learning models like Convolutional Neural Networks (CNNs), the project aims to classify satellite images and extract actionable insights for monitoring and management purposes.
-**
-Features**
+
+## Features
 
 Satellite image classification using CNNs.
 
@@ -13,8 +13,7 @@ Model accuracy: 92% on the test set.
 
 
 
-
-**Technologies Used**
+## Technologies Used
 
 Languages: Python
 
